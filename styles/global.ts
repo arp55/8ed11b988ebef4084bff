@@ -26,7 +26,8 @@ export default StyleSheet.create({
         borderColor:"#777",
         borderRadius:10,
         borderWidth:1,
-        margin:40
+        marginVertical:180,
+        marginHorizontal:10
     },
     heading:{
         fontWeight:'700',
@@ -35,7 +36,7 @@ export default StyleSheet.create({
     },
     value:{
         fontSize:21,
-        marginBottom:20
+        marginBottom:30
     }
   });
   
