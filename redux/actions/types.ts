@@ -1,0 +1,1 @@
+export const SET_ASTEROID='SET_ASTEROID'
